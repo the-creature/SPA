@@ -1,0 +1,14 @@
+.articles {
+  max-width: 600px;
+  padding: 0;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.end {
+  text-align: center;
+}
